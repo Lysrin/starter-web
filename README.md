@@ -20,3 +20,7 @@ It should run on Apache or any other web server.
 ## Acknowledgements
 
 Giving credit where credit is due.
+
+### Copyright
+
+2021 Git.Training.
