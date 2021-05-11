@@ -15,3 +15,8 @@ You can't! This is my private project.
 ## Deployment
 
 It's a web project. Goes on a web server.
+It should run on Apache or any other web server.
+
+## Acknowledgements
+
+Giving credit where credit is due.
