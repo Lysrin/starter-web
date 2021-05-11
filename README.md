@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-You can't! This is my private project.
+Please fork this repository and then issue Pull request for review.
 
 ## Deployment
 
