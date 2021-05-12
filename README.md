@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Adding a line for rebasing example.
+Adding a line for rebasing example. Then more changes from myfeature branch too.
 
 ## Introduction
 
